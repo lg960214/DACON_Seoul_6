@@ -1,5 +1,5 @@
 # 서울 시민 데이터를 활용한 도시문제 해결 경진대회
-####### [바로가기](https://dacon.io/competitions/official/235966/overview/description)
+###### [바로가기](https://dacon.io/competitions/official/235966/overview/description)
 
 ## 주제  
 ### **서울시 지하철 우대권 혜택 축소에 따른 효과 분석**
