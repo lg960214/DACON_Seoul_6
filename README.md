@@ -12,5 +12,5 @@
 ###  3. 참고 자료
 
 ---
-###### [바로가기](https://dacon.io/competitions/official/235966/overview/description)
+[바로가기](https://dacon.io/competitions/official/235966/overview/description)
 ![DACON](https://user-images.githubusercontent.com/46098797/197002829-1e1afe97-bf9c-4838-b12c-02c6fe79f25c.png)
